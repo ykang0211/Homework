@@ -1,5 +1,10 @@
 # Homework
 #Assignment Easy, Moderate, and Hard
+Unit 2 | Assignment - The VBA of Wall Street
+
+Background
+
+You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
 
 Sub stockdata():
     'assignment easy
@@ -51,6 +56,7 @@ Sub stockdata():
     Next ws
         
 End Sub
+
 
 #Assignment Moderate & Hard
 Sub stockdata():
