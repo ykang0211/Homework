@@ -1,5 +1,5 @@
-# Homework
-#Assignment Easy, Moderate, and Hard
+Homework
+Assignment Easy, Moderate, and Hard
 Unit 2 | Assignment - The VBA of Wall Street
 
 Background
@@ -58,7 +58,8 @@ Sub stockdata():
 End Sub
 
 
-#Assignment Moderate & Hard
+'Assignment Moderate & Hard
+
 Sub stockdata():
 
 'assignment moderate
